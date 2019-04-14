@@ -1,0 +1,13 @@
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.DB.Sqlserver.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.DB.Sqlserver.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\obj\Debug\Ruanmou.DB.Sqlserver.csprojAssemblyReference.cache
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\obj\Debug\Ruanmou.DB.Sqlserver.csproj.CoreCompileInputs.cache
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\obj\Debug\Ruanmou.DB.Sqlserver.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\obj\Debug\Ruanmou.DB.Sqlserver.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.Model.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.Model.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\obj\Debug\Ruanmou.DB.Sqlserver.csproj.CopyComplete
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.DB.Interface.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.DB.Interface.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.Common.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.Sqlserver\bin\Debug\Ruanmou.Common.pdb

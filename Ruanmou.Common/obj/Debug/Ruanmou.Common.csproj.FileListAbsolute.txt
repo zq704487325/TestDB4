@@ -1,0 +1,6 @@
+D:\Project\NetVipHomeWork\Ruanmou.Common\bin\Debug\Ruanmou.Common.dll
+D:\Project\NetVipHomeWork\Ruanmou.Common\bin\Debug\Ruanmou.Common.pdb
+D:\Project\NetVipHomeWork\Ruanmou.Common\obj\Debug\Ruanmou.Common.csprojAssemblyReference.cache
+D:\Project\NetVipHomeWork\Ruanmou.Common\obj\Debug\Ruanmou.Common.csproj.CoreCompileInputs.cache
+D:\Project\NetVipHomeWork\Ruanmou.Common\obj\Debug\Ruanmou.Common.dll
+D:\Project\NetVipHomeWork\Ruanmou.Common\obj\Debug\Ruanmou.Common.pdb

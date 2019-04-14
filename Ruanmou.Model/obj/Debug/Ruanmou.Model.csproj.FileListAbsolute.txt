@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Model.dll
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Model.pdb
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.dll
+C:\Users\Administrator\source\repos\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.pdb
+D:\Project\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Model.dll
+D:\Project\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Model.pdb
+D:\Project\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.csprojAssemblyReference.cache
+D:\Project\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.csproj.CoreCompileInputs.cache
+D:\Project\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.dll
+D:\Project\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.pdb
+D:\Project\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Common.dll
+D:\Project\NetVipHomeWork\Ruanmou.Model\bin\Debug\Ruanmou.Common.pdb
+D:\Project\NetVipHomeWork\Ruanmou.Model\obj\Debug\Ruanmou.Model.csproj.CopyComplete

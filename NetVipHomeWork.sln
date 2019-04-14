@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetVipHomeWork", "NetVipHomeWork\NetVipHomeWork.csproj", "{E3CE07AE-CB47-44EB-BA4D-495265A60EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.Model", "Ruanmou.Model\Ruanmou.Model.csproj", "{25EB625C-051F-44B9-B53F-A9FB13545115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.Sqlserver", "Ruanmou.DB.Sqlserver\Ruanmou.DB.Sqlserver.csproj", "{79E48803-58E0-41DA-B109-A89730F07BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.Interface", "Ruanmou.DB.Interface\Ruanmou.DB.Interface.csproj", "{CB046312-A599-4671-A5D6-DFEF4AC02F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.DB.SimpleFactory", "Ruanmou.DB.SimpleFactory\Ruanmou.DB.SimpleFactory.csproj", "{B49FDC74-FDE0-4BB8-ACEA-41197744D021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.Common", "Ruanmou.Common\Ruanmou.Common.csproj", "{451C3CC6-F896-4F01-BA48-DBD5EAB5C755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruanmou.BLL", "Ruanmou.BLL\Ruanmou.BLL.csproj", "{228689B5-95E4-481E-B578-FA4E42F72A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3CE07AE-CB47-44EB-BA4D-495265A60EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CE07AE-CB47-44EB-BA4D-495265A60EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CE07AE-CB47-44EB-BA4D-495265A60EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CE07AE-CB47-44EB-BA4D-495265A60EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EB625C-051F-44B9-B53F-A9FB13545115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EB625C-051F-44B9-B53F-A9FB13545115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EB625C-051F-44B9-B53F-A9FB13545115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EB625C-051F-44B9-B53F-A9FB13545115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E48803-58E0-41DA-B109-A89730F07BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E48803-58E0-41DA-B109-A89730F07BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E48803-58E0-41DA-B109-A89730F07BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E48803-58E0-41DA-B109-A89730F07BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB046312-A599-4671-A5D6-DFEF4AC02F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB046312-A599-4671-A5D6-DFEF4AC02F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB046312-A599-4671-A5D6-DFEF4AC02F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB046312-A599-4671-A5D6-DFEF4AC02F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49FDC74-FDE0-4BB8-ACEA-41197744D021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49FDC74-FDE0-4BB8-ACEA-41197744D021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49FDC74-FDE0-4BB8-ACEA-41197744D021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49FDC74-FDE0-4BB8-ACEA-41197744D021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451C3CC6-F896-4F01-BA48-DBD5EAB5C755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451C3CC6-F896-4F01-BA48-DBD5EAB5C755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451C3CC6-F896-4F01-BA48-DBD5EAB5C755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451C3CC6-F896-4F01-BA48-DBD5EAB5C755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228689B5-95E4-481E-B578-FA4E42F72A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228689B5-95E4-481E-B578-FA4E42F72A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228689B5-95E4-481E-B578-FA4E42F72A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228689B5-95E4-481E-B578-FA4E42F72A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4607472D-32DE-45B8-B5A5-AF3711A95B65}
+	EndGlobalSection
+EndGlobal

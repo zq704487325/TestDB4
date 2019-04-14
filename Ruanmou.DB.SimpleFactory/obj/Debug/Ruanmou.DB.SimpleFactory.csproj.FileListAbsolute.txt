@@ -1,0 +1,13 @@
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.DB.SimpleFactory.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.DB.SimpleFactory.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.DB.Interface.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.Model.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.DB.Interface.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.Model.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\obj\Debug\Ruanmou.DB.SimpleFactory.csprojAssemblyReference.cache
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\obj\Debug\Ruanmou.DB.SimpleFactory.csproj.CoreCompileInputs.cache
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\obj\Debug\Ruanmou.DB.SimpleFactory.csproj.CopyComplete
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\obj\Debug\Ruanmou.DB.SimpleFactory.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\obj\Debug\Ruanmou.DB.SimpleFactory.pdb
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.Common.dll
+D:\Project\NetVipHomeWork\Ruanmou.DB.SimpleFactory\bin\Debug\Ruanmou.Common.pdb
